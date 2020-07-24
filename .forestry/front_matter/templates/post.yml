@@ -31,5 +31,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/blog/1.md
 - content/post/ini-judul.md
 - content/post/judul.md
