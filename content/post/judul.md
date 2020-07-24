@@ -17,13 +17,13 @@ oke ini baris ke dua
 
 _oke ini italic_'
 
-`### Table title
+\`### Table title
 
-| Header | Header | Header  |
-| ------ | ------ | ------- |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |
-| Cell   | Cell   | Cell   |`
+| Header | Header | Header |
+| --- | --- | --- |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
+| Cell | Cell | Cell |
 
 **haiii**
 
