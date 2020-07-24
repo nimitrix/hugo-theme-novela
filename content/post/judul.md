@@ -2,7 +2,7 @@
 authors = []
 date = 2020-07-23T17:00:00Z
 excerpt = "hmm"
-hero = "/static/images/79813336_509270533335193_4801838724333293367_n.jpg"
+hero = ""
 title = "judul"
 
 +++
@@ -12,7 +12,7 @@ oke ini baris ke dua
 
     ini kode block
 
-![apa](/static/images/photo5947016979279884650.jpg "hmmm")
+![apa](https://res.cloudinary.com/nemetrix/image/upload/v1595563336/photo5972196014599286880_df4coq.jpg "hmmm")
 
 _oke ini italic_'
 
