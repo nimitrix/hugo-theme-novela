@@ -2,7 +2,7 @@
 authors = []
 date = 2020-07-23T17:00:00Z
 excerpt = "hmm"
-hero = "/static/images/shinobu-kimetsu-no-yaiba-katana-uhdpaper-com-4k-7-1141.jpg"
+hero = "/static/images/79813336_509270533335193_4801838724333293367_n.jpg"
 title = "judul"
 
 +++
@@ -12,7 +12,7 @@ oke ini baris ke dua
 
     ini kode block
 
-![](/static/images/photo5947016979279884650.jpg)
+![apa](/static/images/photo5947016979279884650.jpg "hmmm")
 
 _oke ini italic_'
 
